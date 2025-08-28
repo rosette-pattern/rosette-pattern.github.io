@@ -2,5 +2,5 @@ title: Emily's Prepress Specialist Site
 description: All My Info
 baseurl: "" # Leave empty if publishing to the root domain
 url: "https://rosette-pattern.github.io" # Replace with your site's URL
-theme: jekyll-theme-minima # Example theme
+theme: jekyll-theme-minimal # Example theme
 markdown: kramdown
